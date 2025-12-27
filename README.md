@@ -74,7 +74,7 @@ this will progressively create folders named
 
 ```
 src/day1
-src/day2
+src/day1
 ...
 ```
 
